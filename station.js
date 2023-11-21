@@ -1,0 +1,59 @@
+
+export const stationArray=[
+    {
+        adress:'cvcv',
+        id:6543,
+        city:'js',
+        lines:[
+            23,43,4444,55,743,67
+        ]
+    },
+     {
+        adress:'jhg',
+        id:677743,
+        city:'kjh',
+        lines:[
+            23,43,444,455,743,21
+        ]
+    },
+    {
+       adress:'cveeee',
+       id:243,
+       city:'jmnb',
+       lines:[
+           543,54321,6543
+       ]
+   },
+   {
+      adress:'dfghj',
+      id:6456,
+      city:'fgh',
+      lines:[
+          23,223,43,55,7543,67
+      ]
+  },
+  {
+     adress:'uu',
+     id:643,
+     city:'jlkj',
+     lines:[
+         23,43,4444,55,743,67
+     ]
+ },
+ {
+    adress:'iuv',
+    id:66,
+    city:'uuuuu',
+    lines:[
+        23,322,41,54,744,76
+    ]
+},
+{
+   adress:'cvgggggv',
+   id:698763,
+   city:'lkjhgf',
+   lines:[
+       223,42,45,555,78,987
+   ]
+}
+]
