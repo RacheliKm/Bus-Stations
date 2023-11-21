@@ -1,4 +1,7 @@
-console.log('hello world');
+
+
+import {stationArray} from "./station.js";
+
 
  const vvv = (stations)=>{
     for (const station of stations) {
@@ -6,3 +9,5 @@ console.log('hello world');
         
     }
 };
+
+vvv(stationArray);
