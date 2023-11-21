@@ -57,3 +57,6 @@ export const stationArray=[
    ]
 }
 ]
+
+
+export default stationArray;

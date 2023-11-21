@@ -1,4 +1,5 @@
 
+import {stationArray} from "./station.js";
 
  const vvv = (stations)=>{
     for (const station of stations) {
@@ -6,3 +7,5 @@
         
     }
 };
+
+vvv(stationArray);
